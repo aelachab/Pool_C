@@ -3,7 +3,6 @@
 
 
 int sqrt_x(int nbr) {
-
     if (nbr < 0) {
         return -1;
         

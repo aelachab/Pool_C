@@ -36,7 +36,6 @@
         scanf("%f", &num2);
         printf("enter the operation (+,-,*,/) :\n");
         scanf(" %c", &operator);
-
         float res = Calc(num1, num2, operator);
         printf("the result is : %.2f\n", res);
 
