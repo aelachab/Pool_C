@@ -12,7 +12,6 @@ int min , max ;
         return 0;
 
     }
-    
 int main() {
 
     int array[] = {1, 4, 5, 8, 9};
