@@ -10,7 +10,6 @@ int min , max ;
                if (arr[i] > max) max = arr[i];
         }
         return 0;
-        
     }
 int main() {
 
