@@ -10,7 +10,6 @@ int  remove_int(int arr[], int size, int target) {
      j++;
   } 
     }
-
 return j;
 
 

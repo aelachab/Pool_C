@@ -1,7 +1,5 @@
 #include <stdio.h>
 
-
-
 int min , max ;
  int min_max(int arr[], int taille) {
         min = max = arr[0];

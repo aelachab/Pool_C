@@ -8,7 +8,6 @@
             return i;
             }
             return size;
-
         }
 }
 int main ()   {
