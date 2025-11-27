@@ -11,8 +11,6 @@ int sum_digits(int n) {
   return som;
 }
 
-
-
 int main () {
  int nbr ;
     printf("entres un nombre ");

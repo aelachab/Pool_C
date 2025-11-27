@@ -20,7 +20,6 @@ int main () {
     int nbr;
     printf("entres un nombre : ");
     scanf("%d",&nbr);
-
 if (f_ispowerof2(nbr))
   printf("%d est une puissance de 2.\n", nbr);
 else

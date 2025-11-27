@@ -12,7 +12,6 @@ int i ;
    
 }
 
-
 int main () {
 
     int num ;
